@@ -6,6 +6,6 @@ Objective :Design an API endpoint that receives user input and outputs a persona
 Utilize Postman to facilitate the data retrieval process.
 ---
 
-github [here](https://github.com/wraithio/weatherApp)
+github [here](https://github.com/wraithio/ARobinsonMC1SayHllo-EndPnt)
 
 ### Peer Review by:
