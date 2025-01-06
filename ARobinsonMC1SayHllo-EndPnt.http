@@ -1,0 +1,6 @@
+@ARobinsonMC1SayHllo_EndPnt_HostAddress = http://localhost:5195
+
+GET {{ARobinsonMC1SayHllo_EndPnt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
