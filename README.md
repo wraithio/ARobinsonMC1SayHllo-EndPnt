@@ -8,4 +8,5 @@ Utilize Postman to facilitate the data retrieval process.
 
 github [here](https://github.com/wraithio/ARobinsonMC1SayHllo-EndPnt)
 
-### Peer Review by:
+### Peer Review by: Tanush Kumar 
+Peer Review: Code works well and the code is formatted well i dont have any feedback for you to change anything. Looks Good!
