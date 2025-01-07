@@ -8,12 +8,11 @@ namespace ARobinsonMC1SayHllo_EndPnt.Controllers
     {
         public List<string> NameList = new();
 
-        [HttpPost]
+        [HttpGet]
         [Route("InputName/{name}")]
-        public List<string> InputName(string name)
+        public string InputName(string name)
         {
-            NameList.Add("Hello, " + name);
-            return NameList;
+            return "Hello, " + name;
         }
     }
 }

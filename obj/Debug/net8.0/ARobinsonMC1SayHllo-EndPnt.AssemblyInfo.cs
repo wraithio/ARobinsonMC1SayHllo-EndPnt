@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ARobinsonMC1SayHllo-EndPnt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72740d7f735892113254598f8d1e96e5e3905b65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae5de69b1081f4f1500bc0e6fa07497915abbebf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ARobinsonMC1SayHllo-EndPnt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ARobinsonMC1SayHllo-EndPnt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
